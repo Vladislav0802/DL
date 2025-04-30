@@ -1,0 +1,15 @@
+os==N/A
+random==N/A
+time==N/A
+collections==N/A
+numpy==1.26.4
+pandas==2.2.2
+cv2==4.11.0
+Pillow==10.4.0
+matplotlib==3.9.2
+IPython==8.27.0
+torch==2.6.0
+torchvision==0.21.0
+albumentations==2.0.6
+sklearn==1.5.1
+tqdm==4.66.5
